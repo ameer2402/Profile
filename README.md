@@ -1,6 +1,8 @@
+[![MasterHead]![banner-removebg-preview](https://github.com/user-attachments/assets/53c9da47-1ea7-46b3-8bb4-f16b4514e236)
+
+
 <h1 align="center">Hi 👋, I'm MOHAMMED AMEERKHAN</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
-![MasterHead] ![banner-removebg-preview](https://github.com/user-attachments/assets/77839eaf-5b66-46d0-b80d-c209b613e30a)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
 
