@@ -1,10 +1,10 @@
-[![MasterHead]![banner-removebg-preview](https://github.com/user-attachments/assets/53c9da47-1ea7-46b3-8bb4-f16b4514e236)
+![banner-removebg-preview](https://github.com/user-attachments/assets/53c9da47-1ea7-46b3-8bb4-f16b4514e236)
 
 
 <h1 align="center">Hi 👋, I'm MOHAMMED AMEERKHAN</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameer2402&label=Profile%20views&color=0e75b6&style=flat" alt="ameer2402" /> </p>
 
